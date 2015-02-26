@@ -1,7 +1,7 @@
 from pippi import dsp
 
 freqs = [55, 220, 440, 770]
-length = dsp.stf(20)
+length = dsp.stf(90)
 
 layers = []
 
