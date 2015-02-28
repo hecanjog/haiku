@@ -19,4 +19,4 @@ for freq in freqs:
 
 out = dsp.mix(layers)
 
-dsp.write(out, 'retabler')
+dsp.write(out, 'retabler2')
